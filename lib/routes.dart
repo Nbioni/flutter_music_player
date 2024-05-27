@@ -1,6 +1,6 @@
 import 'package:routefly/routefly.dart';
 
-import 'app/app_page.dart' as a1;
+import 'app/(login)/app_page.dart' as a1;
 import 'app/home/home_page.dart' as a0;
 
 List<RouteEntity> get routes => [
