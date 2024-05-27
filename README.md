@@ -26,7 +26,7 @@ This app was made in [Flutter](https://flutter.dev/) using the [routefly](https:
 
 ## 🚀 Technologies
 
-For the development of this site I used the following technologies:
+For the development of this app I used the following technologies:
 
 - Flutter
 [<img align="center" alt="Naha-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />](https://flutter.dev/)
